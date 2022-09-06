@@ -1,4 +1,4 @@
-# Study2
+# Sudoku
 Test working
 Sudoku validator
 
